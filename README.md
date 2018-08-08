@@ -1,4 +1,4 @@
-# Court Counter with (android-architecture-components).
+# Court Counter app (android-architecture-components).
 
 This is Udacity Android Basic Court Counter app that keep the socure. Made with architecture components android ViewModel.
 It do not loses data when you rotate your mobile.
